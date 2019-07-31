@@ -1,0 +1,10 @@
+# Temporary files
+*.pyc
+*.swp
+*.egg*
+.pytest_cache
+*.DS_Store
+*.un~
+*.tar
+*.gz
+*nc
